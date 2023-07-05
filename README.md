@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+👋 My name is Egor and I am 24 years old
+💻 Open to work (Frontend Developer)
+📚 Every day I learn something new
+🌄 I'm going crazy from the mountains
+🚗 Ready to relocate
+
 <!--
 **egorii87/egorii87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
