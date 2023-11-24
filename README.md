@@ -1,4 +1,3 @@
-![image](https://media.licdn.com/dms/image/D4D16AQGjtzoZ1I2vVA/profile-displaybackgroundimage-shrink_350_1400/0/1688501925846?e=1694044800&v=beta&t=KWWC49DbZ1GvquJLQtmkMPN7LntrIV9iTlyL9lSWgpY)
 
 👋 My name is Egor and I am 24 years old  
 💻 Open to work (Frontend Developer)  
