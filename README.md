@@ -1,10 +1,3 @@
-
-👋 My name is Egor
-💻 Open to work (Frontend Developer)  
-📚 Every day I learn something new  
-🌄 I'm going crazy from the mountains  
-🚗 Ready to relocate  
-
 ### Skills
 
 
