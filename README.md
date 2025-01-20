@@ -1,5 +1,5 @@
 
-👋 My name is Egor and I am 24 years old  
+👋 My name is Egor
 💻 Open to work (Frontend Developer)  
 📚 Every day I learn something new  
 🌄 I'm going crazy from the mountains  
